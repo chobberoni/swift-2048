@@ -1,6 +1,8 @@
 swift-2048
 ==========
 
+Adding to this file for a test.
+
 A working port of [iOS-2048](https://github.com/austinzheng/iOS-2048) to Apple's new Swift language.
 
 Like the original Objective-C version, swift-2048 does not rely upon SpriteKit. See the description for iOS-2048 for more information.
